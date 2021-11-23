@@ -1,0 +1,362 @@
+Afrikai vőlegény : 16
+Akit elkap az ár : 16
+Alkalom : 7
+András : 6
+Annamária : 9
+Az aranyember : 13
+Azurexpress : 11
+Áll a bál : 9
+Álomkeringő : 11
+Bajtársak : 9
+Balkezes angyal : 15
+Beáta és az ördög : 17
+Behajtani tilos! : 16
+Bercsényi huszárok : 18
+A beszélő köntös : 16
+Bob herceg : 10
+Boldoggá teszlek : 16
+A bor : 5
+Borcsa Amerikában : 17
+Bűnös vagyok : 12
+Café Moszkva : 12
+Címzett ismeretlen : 18
+Csalódás : 8
+Csákó és kalap : 14
+Cserebere : 9
+Csókolj meg, édes! : 18
+Dankó Pista : 11
+Döntő pillanat : 14
+dr. Kovács István : 17
+Duna-parti randevú : 18
+Egy asszony visszanéz : 21
+Egy csók és más semmi : 21
+Egy éj Velencében : 17
+Egy éjszaka Erdélyben : 21
+Egy lány elindul : 16
+Egy szoknya, egy nadrág : 23
+Eladó birtok : 12
+Elkésett levél : 14
+Az ellopott szerda : 18
+Elnémult harangok : 17
+Erdélyi kastély : 15
+Erzsébet királyné : 17
+Európa nem válaszol : 19
+Ez a villa eladó : 16
+Ez történt Budapesten : 21
+Édes ellenfél : 13
+Éjféli gyors : 12
+Éjfélre kiderül : 15
+Az éjszaka lánya : 16
+Életre ítéltek! : 15
+Az én lányom nem olyan : 22
+És a vakok látnak : 17
+Fekete gyémántok : 16
+Féltékenység : 12
+Fény és árnyék : 14
+Férfihűség : 10
+A férfi mind őrült : 18
+Fizessen nagysád! : 17
+Fráter Lóránd : 13
+Fűszer és csemege : 17
+Gentryfészek : 12
+Gorodi fogoly : 13
+Göre Gábor visszatér : 20
+Gül baba : 8
+Gyávaság : 8
+Gyimesi vadvirág : 16
+Gyurkovics fiúk : 15
+Halálos tavasz : 14
+A harmincadik : 13
+Hat hét boldogság : 17
+Havi 200 fix : 12
+Hazafelé : 8
+Hazajáró lélek : 14
+Háromszázezer pengő az utcán : 28
+Házasság : 8
+Hetenként egyszer láthatom : 26
+Hétszilvafa : 11
+Hotel kikelet : 13
+A hölgy egy kissé bogaras : 25
+A "28-as" : 9
+Ida regénye : 11
+Igen vagy nem? : 14
+Az iglói diákok : 15
+Ismeretlen ellenfél : 19
+Ítél a Balaton : 14
+János vitéz : 11
+Jelmezbál : 9
+Jómadár : 7
+Kadétszerelem : 13
+Kalotaszegi madonna : 19
+Karosszék : 9
+Katyi : 5
+Kádár kontra Kerekes : 20
+Kerek Ferkó : 11
+Keresztúton : 11
+A két Bajthay : 13
+Két lány az uccán : 17
+Kétezerpengős férfi : 19
+Kétszer kettő : 13
+Kísértés : 8
+Kölcsönadott élet : 17
+Kölcsönkért férjek : 18
+A kölcsönkért kastély : 21
+Köszönöm, hogy elgázolt : 23
+Külvárosi őrszoba : 17
+Lángok : 6
+A láp virága : 12
+A leányvári boszorkány : 22
+Leányvásár : 10
+Lesz, ami lesz : 14
+Lila akác : 9
+Ma, tegnap, holnap : 18
+Maga lesz a férjem : 18
+Magdolna : 8
+Magyar sasok : 12
+Mai lányok : 10
+Makkhetes : 9
+Marika : 6
+Mámi : 4
+Márciusi mese : 13
+Mária két éjszakája : 19
+Mária nővér : 11
+Megvédtem egy asszonyt : 22
+Meseautó : 8
+Mindenki mást szeret : 20
+A miniszter barátja : 19
+A nagymama : 10
+Nászút féláron : 14
+Negyedíziglen : 13
+Nem élhetek muzsikaszó nélkül : 29
+Négylovas hintó : 15
+A Noszty-fiú esete Tóth Marival : 31
+A nőnek mindig sikerül : 22
+Az okos mama : 12
+Ópiumkeringő : 12
+Az örök titok : 13
+5 óra 40 : 8
+5-ös számú őrház : 16
+Őrségváltás : 11
+Papucshős : 9
+Párbaj semmiért : 15
+Pergőtűzben! : 12
+Péntek Rézi : 11
+Pénz beszél : 11
+Pillanatnyi pénzzavar : 21
+Piri mindent tud : 16
+Pista tekintetes úr : 19
+Pókháló : 7
+Ragaszkodom a szerelemhez : 25
+Repülő arany : 12
+Régi keringő : 12
+A régi nyár : 11
+Rozmaring : 9
+Rózsafabot : 10
+Sárga kaszinó : 13
+Sárga rózsa : 11
+Sári bíró : 9
+Segítség, örököltem! : 20
+Semmelweis : 10
+Sok hűhó Emmiért : 16
+Süt a nap : 9
+Szabotázs : 9
+A 111-es : 8
+Szent Péter esernyője : 21
+Szenzáció! : 10
+A szerelem nem szégyen : 22
+Szerelemből nősültem : 20
+Szeressük egymást : 17
+Szervusz, Péter! : 16
+Sziámi macska : 13
+Szíriusz : 8
+Szováthy Éva : 12
+Szüts Mara házassága : 20
+A szűz és a gödölye : 19
+Tavaszi szonáta : 15
+Tengerparti randevú : 19
+Tilos a szerelem : 16
+Tiszavirág : 10
+Tizenhárom kislány mosolyog az égre : 35
+Tokaji aszu : 11
+Tomi, a megfagyott gyermek : 26
+Toprini nász : 12
+Tóparti látomás : 15
+A tökéletes család : 18
+Tökéletes férfi : 15
+Az új rokon : 11
+Az utolsó dal : 13
+Az utolsó Wereczkey : 19
+Úrilány szobát keres : 20
+Vadrózsa : 8
+Végre... : 8
+A vén gazember : 14
+Viki : 4
+Vissza az úton : 14
+Zárt tárgyalás : 14
+Zenélő malom : 12
+120-as tempó : 12
+3:1 a szerelem javára : 21
+A Benedek ház : 13
+A cigány : 8
+A csúnya lány : 13
+Fehér vonat : 11
+A harapós férj : 14
+A hegyek lánya : 14
+A kegyelmes úr rokona : 21
+A kék bálvány : 13
+A királyné huszárja : 19
+A látszat csal : 14
+Menekülő ember : 14
+Néma kolostor : 13
+Pepita kabát : 12
+A piros bugyelláris : 19
+A pusztai királykisasszony : 26
+A szép Pongrácné krinolinja : 27
+A szív szava : 12
+A varieté csillagai : 19
+Ágrólszakadt úrilány : 20
+Álomsárkány : 11
+Anyámasszony katonája : 21
+Aranypáva : 9
+Asszonyszelídítő : 16
+Az első : 7
+Az ember néha téved : 19
+Intéző úr : 9
+Az orvos titka : 14
+Az ördög nem alszik : 19
+Az új földesúr : 14
+Barátságos arcot kérek! : 23
+Beszállásolás : 13
+Boldog idők : 11
+Bors István : 11
+Budai cukrászda : 15
+Búzavirág : 9
+Cifra nyomorúság : 16
+Csak egy kislány van a világon : 30
+Családi pótlék : 14
+Családunk szégyene : 18
+Édes a bosszú : 13
+Édes mostoha : 12
+Egér a palotában : 16
+Egy bolond százat csinál : 24
+Egy fiúnak a fele : 17
+Egy gép nem tért vissza : 23
+Egy nap a világ : 15
+Egy pofon, egy csók : 19
+Egy szív megáll : 15
+Egy tál lencse : 14
+Éjféli keringő : 14
+Éjjeli zene : 11
+Elcserélt ember : 15
+Elnökkisasszony : 15
+Ember a híd alatt : 17
+Emmy : 4
+Enyém vagy : 10
+Érik a búzakalász : 17
+Estélyi ruha kötelező : 21
+Évforduló : 9
+A falu rossza : 13
+Fehérvári huszárok : 18
+Fekete hajnal : 13
+Férjet keresek : 14
+Filléres gyors : 14
+Fiú vagy lány ? : 15
+Forog az idegen : 15
+Földindulás : 11
+Futóhomok : 9
+Futótűz : 7
+Garszonlakás kiadó : 18
+Gazdátlan asszony : 17
+Gyanú : 5
+Halálos csók : 12
+Haláltánc : 9
+Halló, Budapest : 15
+Három csengő : 12
+A három galamb : 14
+Három sárkány : 13
+Háry János : 10
+Havasi napsütés : 15
+Házassággal kezdődik : 20
+Helyet az öregeknek : 19
+Heten, mint a gonoszok : 22
+Hol alszunk vasárnap? : 21
+Hölgyek előnyben : 16
+Hyppolit, a lakáj : 17
+Idegen utakon : 13
+Isten rabjai : 12
+Isten tenyerén : 14
+Iza néni : 8
+Jöjjön elsején : 14
+Kacagó asszony : 14
+Késő : 4
+Két fogoly : 10
+Kettesben : 9
+Kísértetek vonata : 17
+Legény a gáton : 14
+Légy jó mindhalálig : 19
+Lejtőn : 6
+Lelki klinika : 13
+Lovagias ügy : 12
+Machita : 7
+Madách : 6
+Magdát kicsapják : 16
+Magyar feltámadás : 17
+Majális : 7
+Makacs Kata : 11
+Makrancos hölgy : 15
+Mátyás rendet csinál : 20
+Megálmodtalak : 13
+Méltóságos kisasszony : 21
+Miért? : 6
+Mindent a nőért! : 16
+Muki : 4
+Nászinduló : 10
+Ne kérdezd, ki voltam : 21
+Négylevelű lóhere : 17
+Nehéz apának lenni : 18
+Nem loptam én életemben : 23
+Nemes rózsa : 11
+Nincsenek véletlenek : 20
+Orient express : 14
+Ördöglovas : 10
+Pardon, tévedtem : 16
+Pénz áll a házhoz : 17
+Pesti mese : 10
+Pogányok : 8
+Pusztai szél : 12
+Rád bízom a feleségem : 21
+Rákóczi induló : 14
+Rákóczi nótája : 14
+Rotschild leánya : 16
+Sarajevo : 8
+A sárga csikó : 13
+Szakítani nehéz dolog : 21
+Zúgnak a szirénák : 17
+Szegény gazdagok : 16
+Szép csillag : 12
+Szeptember végén : 16
+Szerelmes szívek : 16
+Szerelmi álmok : 14
+Szerelmi láz : 12
+Szerencsés flótás : 17
+Szerető fia, Péter : 18
+Tavaszi zápor : 13
+Te csak pipálj, Ladányi! : 24
+Te vagy a dal : 13
+Tisztelet a kivételnek : 22
+Tokaji rapszódia : 16
+Torockói menyasszony : 20
+Uz Bence : 8
+Üzenet a Volga partról : 22
+Valamit visz a víz : 18
+Varjú a toronyórán : 18
+Vica, a vadevezős : 17
+Viharbrigád : 11
+Zavaros éjszaka : 15
+Zivatar Kemenespusztán : 22
+Zörgetnek az ablakon : 20
+Tavasz a viharban : 17
+Én voltam : 9
+Szomorú csütörtök, vidám vasárnap : 33
+A titokzatos idegen : 19
+Vihar után : 10
